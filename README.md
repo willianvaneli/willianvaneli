@@ -1,9 +1,9 @@
 # Olá! Eu sou o Willian 👋
 Seja bem vindo ao meu GitHub,<br/><br/>
 Primeiramente pai de dois meninos lindos e inteligentes. <br/>
-Nas horas vagas sou estudante de sistema de informação no IFES📚 e analista de TI com experência em gerenciamento de projetos de software, banco de dados, desenvolvimento mobile, web e desktop.<br/>
+Nas horas vagas sou estudante de sistema de informação no IFES📚 e analista de TI com experência em gerenciamento de projetos de software, gerenciamento de banco de dados, desenvolvimento mobile, web e desktop.<br/>
 Tenho facilidade no aprendizado e gosto de conhecer novas tecnologias.<br/>
-Atualmente atuo na criação e manutenção de sistemas GIS mobile (Android nativo) e web.<br/>
+Atualmente atuo na criação e manutenção de sistemas GIS, mobile (Android nativo) e web, e gerenciamento de banco de dados.<br/>
 
 
 ## Status GitHub
@@ -22,7 +22,6 @@ Atualmente atuo na criação e manutenção de sistemas GIS mobile (Android nati
   <img align="center" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <br/><br/>
-  
   <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&color=green&logo=php&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&color=green&logo=react&logoColor=white" />
@@ -39,6 +38,7 @@ Atualmente atuo na criação e manutenção de sistemas GIS mobile (Android nati
   <br/><br/>
   <img align="center" src="https://img.shields.io/badge/-VSCODE-blue?style=for-the-badge" />
   <img align="center" src="https://img.shields.io/badge/-ANDROID STUDIO-green?style=for-the-badge" />
+  <img align="center" src="https://img.shields.io/badge/PG Admin-blue?style=for-the-badge" />
 </div>
 
 ## Tecnologias esporádicas
@@ -56,6 +56,7 @@ Atualmente atuo na criação e manutenção de sistemas GIS mobile (Android nati
   <img align="center" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <br/><br/>
   <img align="center" src="https://img.shields.io/badge/-Visual Studio-blueviolet?style=for-the-badge" />
+  <img align="center" src="https://img.shields.io/badge/-Microsoft Sql Server-yellow?style=for-the-badge" />
 </div>
 
 <br/>
