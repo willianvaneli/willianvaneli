@@ -9,11 +9,11 @@ Estudante de Bacharelado em Sistemas de Informação - IFES 📚<br/> <br/>
 ## Tecnologias do dia a dia
 
 <div style="display: inline_block"><br/>
-  <img align="center" src="https://img.shields.io/badge/PostgreSQL-E34F26?style=for-the-badge&logo=html5&logoColor=green" />
-  <img align="center" src="https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&logo=css3&logoColor=yellow" />
-  <img align="center" src="https://img.shields.io/badge/-PHP-green" />
-  <img align="center" src="https://img.shields.io/badge/Laravel-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" src="https://img.shields.io/badge/PostgreSQL-E34F26?style=for-the-badge&color=green&logo=html5&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&color=yellow&logo=css3&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&color=green&logo=php&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/Laravel-F7DF1E?style=for-the-badge&color=yellow&logo=javascript&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&color=green&logo=react&logoColor=white" />
   
 </div>
 
